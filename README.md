@@ -2,20 +2,15 @@
 
 I recently created a simple **To-Do List application** to practice my JavaScript fundamentals and DOM manipulation.
 
+
 🔹 **Features of the app:**
-• Add tasks easily using the input field
-
-• Press **Enter** or click **Add** to insert a task
-
-• Click on a task to **mark it as completed**
-
-• Delete individual tasks
-
-• **Clear all tasks** with one click
-
-• **Task counter** that updates dynamically
-
-• Tasks are stored using **LocalStorage**, so they remain even after refreshing the page
+* Add tasks easily using the input field
+* Press **Enter** or click **Add** to insert a task
+* Click on a task to **mark it as completed**
+* Delete individual tasks
+* **Clear all tasks** with one click
+* **Task counter** that updates dynamically
+* Tasks are stored using **LocalStorage**, so they remain even after refreshing the page
 
 💡 Through this project, I practiced:
 
