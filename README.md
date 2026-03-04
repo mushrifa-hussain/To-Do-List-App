@@ -4,6 +4,7 @@ I recently created a simple **To-Do List application** to practice my JavaScript
 
 🔹 **Features of the app:**
 • Add tasks easily using the input field
+
 • Press **Enter** or click **Add** to insert a task
 • Click on a task to **mark it as completed**
 • Delete individual tasks
@@ -20,7 +21,10 @@ I recently created a simple **To-Do List application** to practice my JavaScript
 
 This small project helped me better understand how **JavaScript interacts with HTML and CSS to create interactive web applications.**
 
-🔗 **Live Demo:** [Add your live link here]
-💻 **GitHub Repository:** [Add your GitHub link here]
+🔗 **Live Demo:** https://mushrifa-hussain.github.io/To-Do-List-App/
+
+## 📸 Preview
+- Here is a preview of the project:
+![WhatsApp Image 2026-03-05 at 12 02 08 AM](https://github.com/user-attachments/assets/bdbced15-1b99-4c35-a162-41fd6ceb10b4)
 
 #JavaScript #WebDevelopment #FrontendDevelopment #HTML #CSS #LearningByBuilding #BeginnerProjects
